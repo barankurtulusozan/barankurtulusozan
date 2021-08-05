@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## I'm a Son, Brother, Developer and Mentor
+## I'm a E-Commerce Frontend Developer and Mentor
 
 I will hopefully make this profile better, only discovering features for now.
 
