@@ -1,14 +1,14 @@
 ### Hello there 👋
 
-## I'm a E-Commerce Frontend Developer and Mentor
+## I'm an E-Commerce Frontend Developer and Mentor
 
-I will hopefully make this profile better, only discovering features for now.
+I will make this profile better in time, only discovering features for now.
 
 - 🔭 I’m currently working on E-Commerce projects
 - 🌱 I’m currently learning React, Cypress, Salesforce DX, Frontend Optimization
 - 👯 I’m eager to collaborate on open-source voluntary projects
 - 💬 Ask me about anything related to Javascript ES6+
-- 📫 How to reach me: [mail] , [linkedin]
+- 📫 How to reach me: info@bko.io , [linkedin]
 - ⚡ Fun fact: I was acting in plays and dancing Lindy Hop before covid
 
 <br>
@@ -45,7 +45,6 @@ I will hopefully make this profile better, only discovering features for now.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[mail]: info@bko.io
 [website]: https://bko.io
 [twitter]: https://twitter.com/BrnKurtulusOzan
 [linkedin]: https://www.linkedin.com/in/baran-kurtulus-ozan/
