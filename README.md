@@ -1,22 +1,21 @@
 ### Hello there 👋
 
-## I'm an E-Commerce Frontend Developer and Mentor
+## I'm a Front End E-Commerce Developer
 
 I will make this profile better in time, only discovering features for now.
 
-- 🔭 I’m currently working on E-Commerce projects
-- 🌱 I’m currently learning React, Cypress, Salesforce DX, Frontend Optimization
-- 👯 I’m eager to collaborate on open-source voluntary projects
+- 🔭 Working on E-Commerce projects
+- ⚡  Salesforce Commerce Cloud, SFRA, PWA-Kit
+- 🌱 React.js, Redux, GraphQL, Framer-Motion, Jest, Front End Optimization
+- 👯 Open to collaborate on open-source voluntary projects
 - 💬 Ask me about anything related to Javascript ES6+
 - 📫 How to reach me: info@bko.io , [linkedin]
-- ⚡ Fun fact: I was acting in plays and dancing Lindy Hop before covid
 
 <br>
 
 ### Connect with me:
 
 [<img align="left" alt="bko.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="brnkurtulusozan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="barankurtulusozan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
@@ -45,6 +44,7 @@ I will make this profile better in time, only discovering features for now.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[blog]: https://bakuo.hashnode.dev/
 [website]: https://bko.io
 [twitter]: https://twitter.com/BrnKurtulusOzan
 [linkedin]: https://www.linkedin.com/in/baran-kurtulus-ozan/
