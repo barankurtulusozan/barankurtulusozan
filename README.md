@@ -1,21 +1,7 @@
 ### Hello there 👋
 
-## I'm a Front End E-Commerce Developer
-
-I will make this profile better in time, only discovering features for now.
-
-- 🔭 Working on E-Commerce projects
-- ⚡  Salesforce Commerce Cloud, SFRA, PWA-Kit
-- 🌱 React.js, Redux, GraphQL, Framer-Motion, Jest, Front End Optimization
-- 👯 Open to collaborate on open-source voluntary projects
-- 💬 Ask me about anything related to Javascript ES6+
-- 📫 How to reach me: info@bko.io , [linkedin]
-
-<br>
-
 ### Connect with me:
 
-[<img align="left" alt="bko.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="barankurtulusozan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
